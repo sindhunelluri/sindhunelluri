@@ -180,7 +180,7 @@ Exploring intelligent software solutions
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <h3>💻 Languages</h3>
 
@@ -216,7 +216,7 @@ Exploring intelligent software solutions
 
 </td>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 
 <h3>🔧 Tools & Platforms</h3>
@@ -547,6 +547,32 @@ The website is designed to provide recruiters with a quick and clear overview of
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhunelluri&bg_color=0d1117&color=FF8C00&line=8E2DE2&point=FF8C00&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+<!-- Animated Gradient Divider -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<!-- 🏓 Contribution Pong -->
+
+# 🏓 Contribution Pong
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/sindhunelluri/contribution-pong/main/pong.svg"
+  width="95%"
+  alt="Sindhu Nelluri Contribution Pong"
+/>
+
+
+
+<b>🏓 Every contribution keeps the rally alive 🚀</b>
 
 </div>
 
