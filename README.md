@@ -88,6 +88,7 @@ class SindhuNelluri:
         "Improve",
         "Repeat"
     ]
+<br clear="right"/>
 
 ## 🧭 Career Focus
 
