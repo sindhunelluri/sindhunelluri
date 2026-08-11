@@ -33,55 +33,45 @@
 
 
 
-<div align="center">
+<div align="left">
 
 ## ✦ Welcome to My GitHub ✦
 
 
 
-# 👩‍💻 About Me
+<!-- About Me Section -->
 
 
-<table>
-<tr>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">About Me
 
-<td width="58%" valign="top">
+```javascript
+const SindhuNelluri {
 
-<h3>💻 Developer Profile</h3>
+    name = "Sindhu Nelluri";
+    role = "Aspiring Software Engineer";
+    education = "B.Tech in Information Technology";
+    graduation = 2026;
+    location = "Guntur, Andhra Pradesh, India 🇮🇳";
+    languages = ["Python","Java","C","JavaScript","SQL"];
+    interests = ["Software Development","Web Development","Artificial Intelligence","Machine Learning"];
+    currentlyLearning = ["React.js","Backend Development","Cloud Computing"];
+    strengths = ["Problem Solving","Analytical Thinking","Adaptability","Continuous Learning"];
+    projects = ["Transformer-Based Melanoma Detection","Personal Portfolio Website"];
+    goal = "Build useful and impactful software 🚀";
+    funFact = "I enjoy coding and creative activities 🎨";
 
-<pre>
-class SindhuNelluri:
-    name = "Sindhu Nelluri"
-    role = "Aspiring Software Engineer"
-    education = "B.Tech in Information Technology"
-    location = "Guntur, Andhra Pradesh, India"
-    languages = [
-        "Python",
-        "Java",
-        "C",
-        "JavaScript",
-        "SQL"
-    ]
-    interests = [
-        "Software Development",
-        "Web Development",
-        "Artificial Intelligence",
-        "Machine Learning"
-    ]
-    currently_learning = [
-        "React.js",
-        "Backend Development"
-    ]
-    goal = "Build useful and impactful software"
+    lifeLoop() {
+        while (alive) {
+            learn();
+            build();
+            solveProblems();
+            improve();
+            create();
+        }
+    }
+}
 
-</pre>
-
-</td>
-
-
-
-</tr>
-</table>
+```
 
 
 <!-- Animated Gradient Divider -->
@@ -90,7 +80,6 @@ class SindhuNelluri:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
-
 
 
 # 🧭 Career Focus
@@ -253,7 +242,7 @@ Exploring intelligent software solutions
 ## 🚀 Featured Projects
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF8C00,50:8E2DE2,100:FF4B2B&height=100&section=header&text=PROJECT%20SHOWCASE&fontSize=40&fontColor=FFFFFF" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF8C00,50:8E2DE2,100:FF4B2B&height=100&section=header&text=PROJECT%20SHOWCASE&fontSize=60&fontColor=FFFFFF" width="30%"/>
 
 </div>
 
@@ -287,19 +276,16 @@ The project focuses on image preprocessing, augmentation, deep learning, and com
 ### 🛠️ Technology
 
 `Python`
-
 `PyTorch`
 
 `Vision Transformer`
 
 `NumPy`
-
 `Pandas`
 
 `OpenCV`
 
 `HTML`
-
 `CSS`
 
 `JavaScript`
@@ -348,7 +334,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 ### 🛠️ Technology
 
 `HTML5`
-
 `CSS3`
 
 `JavaScript`
@@ -612,6 +597,8 @@ The website is designed to provide recruiters with a quick and clear overview of
 
 
 ⭐ <b>Thanks for visiting my profile!</b> 👋
+
+
 
 
 
