@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0F0F,45:6A11CB,75:8E2DE2,100:FF8C00&height=360&section=header&text=Sindhu%20Nelluri&fontSize=65&fontColor=E9D5FF&fontAlign=50&fontAlignY=50&stroke=8E2DE20&strokeWidth=1&animation=fadeIn" width="90%"/>
 
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF8C00&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Python+%7C+Java+%7C+SQL+Developer;AI+%26+Web+Development+Enthusiast;Building+Projects+%7C+Learning+%7C+Growing;Open+to+Software+Engineering+Opportunities" alt="Typing SVG"/>
-
 
 <a href="https://www.linkedin.com/in/sindhu-nelluri">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,8 +16,6 @@
 <img src="https://img.shields.io/badge/RESUME-FF8C00?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
-
-
 📍 <b>Guntur, Andhra Pradesh, India</b>
 
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -31,23 +25,14 @@
 
 </div>
 
-
-
 <div align="center">
 
 ## ✦ Welcome to My GitHub ✦
-
-
-
 # 👩‍💻 About Me
-
 <table>
 <tr>
-
 <td width="58%" valign="top">
-
 <h3>💻 Developer Profile</h3>
-
 <pre>
 class SindhuNelluri:
     name = "Sindhu Nelluri"
@@ -74,89 +59,44 @@ class SindhuNelluri:
     goal = "Build useful and impactful software"
 
 </pre>
-
 </td>
-
-
-
 </tr>
 </table>
-
-
-
-
-
-
 # 🧭 Career Focus
 
 <div align="center">
-
 <table>
 <tr>
-
 <td align="center" width="25%">
-
 💻
-
 <b>Software Engineering</b>
-
-
-
 Building reliable and practical software solutions
-
 </td>
-
 <td align="center" width="25%">
-
 🐍
-
 <b>Python Development</b>
-
-
 Application development and problem solving
-
 </td>
-
 <td align="center" width="25%">
-
 🌐
-
 <b>Web Development</b>
-
-
-
 Responsive and user-friendly web applications
-
 </td>
-
 <td align="center" width="25%">
-
 🤖
-
 <b>AI / ML</b>
-
-
-
 Exploring intelligent software solutions
-
 </td>
-
 </tr>
 </table>
-
 </div>
-
-
 
 # 🛠️ Tech Stack
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
-
 <h3>💻 Languages</h3>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -191,7 +131,6 @@ Exploring intelligent software solutions
 
 <td width="50%" valign="top">
 
-
 <h3>🔧 Tools & Platforms</h3>
 
 <p align="center">
@@ -211,10 +150,8 @@ Exploring intelligent software solutions
 <img src="https://img.shields.io/badge/Backend%20Development-FF8C00?style=for-the-badge"/>
 
 </td>
-
 </tr>
 </table>
-
 
 ### 🧠 Computer Science Fundamentals
 
@@ -224,15 +161,12 @@ Exploring intelligent software solutions
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8E2DE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Development-FF4B2B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Testing-3776AB?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Database%20Concepts-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Operating%20Systems%20Basics-181717?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Networks%20Basics-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge"/>
 
 </div>
-
-
 
 ## 🚀 Featured Projects
 <div align="center">
@@ -271,40 +205,26 @@ The project focuses on image preprocessing, augmentation, deep learning, and com
 ### 🛠️ Technology
 
 `Python`
-
 `PyTorch`
-
 `Vision Transformer`
-
 `NumPy`
-
 `Pandas`
-
 `OpenCV`
-
 `HTML`
-
 `CSS`
-
 `JavaScript`
-
 <br>
 
 <a href="https://github.com/sindhunelluri/Transformer-based-melanoma-detection">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </td>
-
 </tr>
 </table>
 
-
 ## 🌐 Personal Portfolio Website
-
 <table>
 <tr>
-
 <td width="75%" valign="top">
 
 ### 📌 Overview
@@ -332,17 +252,11 @@ The website is designed to provide recruiters with a quick and clear overview of
 ### 🛠️ Technology
 
 `HTML5`
-
 `CSS3`
-
 `JavaScript`
-
 `Font Awesome`
-
 `Git`
-
 `GitHub Pages`
-
 <br>
 
 <a href="https://sindhunelluri.github.io/Sindhu_Nelluri_Portfolio/">
@@ -355,61 +269,40 @@ The website is designed to provide recruiters with a quick and clear overview of
 </a>
 
 </td>
-
 </tr>
 </table>
-
-
 
 # 🧰 Other Projects
 
 <table>
 <tr>
-
 <th>Project</th>
 <th>Description</th>
 <th>Technology</th>
-
 </tr>
-
-<tr>
-
+    
+<tr> 
 <td>📝 <b>GUI To-Do List</b></td>
-
 <td>Desktop productivity application for managing daily tasks.</td>
-
 <td><code>Python</code> <code>Tkinter</code></td>
-
 </tr>
-
+    
 <tr>
-
 <td>🧮 <b>Calculator</b></td>
-
 <td>Simple calculator application with a graphical interface.</td>
-
 <td><code>Python</code></td>
-
 </tr>
 
 <tr>
-
 <td>🔐 <b>Password Generator</b></td>
-
 <td>Utility for generating secure random passwords.</td>
-
 <td><code>Python</code></td>
-
 </tr>
 
 <tr>
-
 <td>🎮 <b>Rock Paper Scissors</b></td>
-
 <td>Interactive game demonstrating programming fundamentals.</td>
-
 <td><code>Python</code></td>
-
 </tr>
 
 </table>
@@ -419,7 +312,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 ## 🎓 Education
 
 <div align="center">
-
 <table>
 <tr>
 <td width="70%" valign="top">
@@ -431,7 +323,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 <br>
 📅 **2022 – 2026**  📍 *Guntur, Andhra Pradesh, India*
 
-
 </td>
 
 <td width="30%" align="center" valign="middle">
@@ -440,11 +331,9 @@ The website is designed to provide recruiters with a quick and clear overview of
 
 ## ⭐ 9.10
 
-
 </td>
 </tr>
 </table>
-
 </div>
 
 
@@ -463,22 +352,14 @@ The website is designed to provide recruiters with a quick and clear overview of
 </a><a href="YOUR_SQL_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/🗄️%20SQL%20%26%20Relational%20Databases-FF8C00?style=for-the-badge"/>
 </a>
-
 </div>
-
-
 <br>
-
 
 # 🌱 Currently Learning
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Backend%20Development-FF8C00?style=for-the-badge"/>
-
 </div>
-
-
 
 <div align="center">
 
@@ -487,7 +368,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 </div>
 
 ---
-
 
 # 📈 Contribution Activity
 
@@ -518,8 +398,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 
 </div>
 
-
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -536,14 +414,11 @@ The website is designed to provide recruiters with a quick and clear overview of
 </a>
 
 <br>
-
-
 </div>
 
 <div align="center">
 
 ### 🤝 Let's Build Something Meaningful Together!
-
 
 💻 <b>Learn</b>
 &nbsp;•&nbsp;
@@ -555,10 +430,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 
 
 ⭐ <b>Thanks for visiting my profile!</b> 👋
-
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF4B2B,100:8E2DE2&height=120&section=footer"/>
 
