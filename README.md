@@ -28,17 +28,29 @@
 <div align="center">
 
 ## ✦ Welcome to My GitHub ✦
-# 👩‍💻 About Me
-<table>
-<tr>
-<td width="58%" valign="top">
-<h3>💻 Developer Profile</h3>
-<pre>
+
+<!--          ABOUT ME              -->
+
+<h2>👩‍💻 About Me</h2>
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+ Developer Profile
+</h3>
+
+```python
 class SindhuNelluri:
+
     name = "Sindhu Nelluri"
     role = "Aspiring Software Engineer"
+
     education = "B.Tech in Information Technology"
-    location = "Guntur, Andhra Pradesh, India"
+    graduation = "2026"
+
+    location = "Guntur, Andhra Pradesh, India 🇮🇳"
+
     languages = [
         "Python",
         "Java",
@@ -46,22 +58,36 @@ class SindhuNelluri:
         "JavaScript",
         "SQL"
     ]
+
     interests = [
         "Software Development",
         "Web Development",
         "Artificial Intelligence",
         "Machine Learning"
     ]
+
     currently_learning = [
         "React.js",
         "Backend Development"
     ]
-    goal = "Build useful and impactful software"
 
-</pre>
-</td>
-</tr>
-</table>
+    strengths = [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Adaptability",
+        "Continuous Learning"
+    ]
+
+    goal = "Build useful and impactful software 🚀"
+
+    fun_fact = "I enjoy coding and creative activities 🎨"
+
+    life_loop = [
+        "Learn",
+        "Build",
+        "Improve",
+        "Repeat"
+    ]
 
 ## 🧭 Career Focus
 
