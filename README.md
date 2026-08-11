@@ -29,16 +29,31 @@
 
 ## ✦ Welcome to My GitHub ✦
 
-<!--          ABOUT ME              -->
+<!-- ==================== ABOUT ME ==================== -->
 
-<h2>👩‍💻 About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-<h3>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
- Developer Profile
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0F0F,50:6A11CB,100:FF8C00&height=100&section=header&text=DEVELOPER%20PROFILE&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" width="80%"/>
+
+<br>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+<h3 align="center">💻 Who Am I?</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Software%20Engineer-6A11CB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Developer-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<br>
+
+<div align="center">
 
 ```python
 class SindhuNelluri:
@@ -47,7 +62,7 @@ class SindhuNelluri:
     role = "Aspiring Software Engineer"
 
     education = "B.Tech in Information Technology"
-    graduation = "2026"
+    graduation = 2026
 
     location = "Guntur, Andhra Pradesh, India 🇮🇳"
 
@@ -88,8 +103,8 @@ class SindhuNelluri:
         "Improve",
         "Repeat"
     ]
-<br clear="right"/>
 
+```
 ## 🧭 Career Focus
 
 <div align="center">
