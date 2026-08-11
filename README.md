@@ -62,7 +62,8 @@ class SindhuNelluri:
 </td>
 </tr>
 </table>
-# 🧭 Career Focus
+
+## 🧭 Career Focus
 
 <div align="center">
 <table>
