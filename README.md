@@ -8,17 +8,45 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF8C00&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Python+%7C+Java+%7C+SQL+Developer;AI+%26+Web+Development+Enthusiast;Building+Projects+%7C+Learning+%7C+Growing;Open+to+Software+Engineering+Opportunities" alt="Typing SVG"/>
 
 
+<table align="center">
+<tr>
+<td align="center">
+
 <a href="https://www.linkedin.com/in/sindhu-nelluri">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a> <a href="https://github.com/sindhunelluri">
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://github.com/sindhunelluri">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a> <a href="https://sindhunelluri.github.io/Sindhu_Nelluri_Portfolio/">
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://sindhunelluri.github.io/Sindhu_Nelluri_Portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a> <a href="mailto:sindhunelluri3016@gmail.com">
+</a>
+
+</td>
+<td align="center">
+
+<a href="mailto:sindhunelluri3016@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a> <a href="https://drive.google.com/file/d/1UFlgJwDwb61MPm_aqvYI7oVzhbxMtPoa/view?usp=drive_link">
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://drive.google.com/file/d/1UFlgJwDwb61MPm_aqvYI7oVzhbxMtPoa/view?usp=drive_link">
 <img src="https://img.shields.io/badge/RESUME-FF8C00?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 
 
@@ -36,7 +64,6 @@
 <div align="left">
 
 ## ✦ Welcome to My GitHub ✦
-
 
 
 <!-- About Me Section -->
