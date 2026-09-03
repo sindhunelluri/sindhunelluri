@@ -542,21 +542,6 @@ The website is designed to provide recruiters with a quick and clear overview of
 
 </div>
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhunelluri&bg_color=0d1117&color=FF8C00&line=8E2DE2&point=FF8C00&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br>
-<!-- Animated Gradient Divider -->
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
 
 <!-- 🏓 Contribution Pong -->
 
